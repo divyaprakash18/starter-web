@@ -1,0 +1,1 @@
+another text file inside the folder of another folder so as to test the git commands.
