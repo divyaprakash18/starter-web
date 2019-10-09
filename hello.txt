@@ -2,3 +2,7 @@ this is simply a hello.tx file with some content so as to push it to the github 
 
 
 some more texts are being added to check some new git features .
+
+change 1 after staging before editing it once
+
+change 2 after it have already been added but the change is done again
