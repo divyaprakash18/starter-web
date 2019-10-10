@@ -6,9 +6,11 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##this one is with two hashes
+# with one hash
 
-###this one with three hashes
+## this one is with two hashes
+
+### this one with three hashes
 
 
 
