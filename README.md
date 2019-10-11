@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 
 change for checking the auto merge
+
+
+adding line for rebase example
