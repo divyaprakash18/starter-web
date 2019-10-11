@@ -18,3 +18,5 @@ change for checking the auto merge
 
 
 adding line for rebase example
+
+change for checking the stash command
